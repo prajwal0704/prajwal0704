@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @prajwal0704
+- 👀 I’m interested in machine learning and data science 
+- 🌱 I’m currently learning data science
+- 📫 How to reach me ganeshprasadsnp@gmail.com
